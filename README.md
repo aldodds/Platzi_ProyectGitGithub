@@ -25,6 +25,11 @@ No missing data were identified. The forward fill (ffill) method is available, e
 ### Identification of Outliers
 Several outliers were identified in both sales and income. These outliers were analyzed to understand possible reasons behind them.
 
+## Conclusions
+1. The variability in sales and revenue suggests that the business experiences different levels of demand or success on different days. This could be influenced by various factors such as promotions, seasonality, or market conditions.
+2. The low correlation suggests that there is no simple linear relationship between `Sales` and `Revenue`. This does not mean there is no relationship at all, but rather that the relationship may be more complex than what Pearson's correlation can detect.
+3. The analysis suggests that June is a key month for sales and revenue.
+
 ## Contributions
 Suggestions and contributions are welcome. Please open an issue or pull request to propose changes.
     
